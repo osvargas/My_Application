@@ -37,7 +37,7 @@
         android:layout_marginEnd="16dp"
         android:layout_marginBottom="16dp"
         android:fontFamily="sans-serif-light"
-        android:text="Vargass"
+        android:text="Vargas2"
         android:textColor="@android:color/black"
         android:textSize="34sp"
         app:layout_constraintBottom_toBottomOf="parent"
